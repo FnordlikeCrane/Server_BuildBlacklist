@@ -1,0 +1,3 @@
+Title: Building Blacklist
+Author: Peggworth the Pirate
+Ban users from being able to build. Otherwise all users have the right to build.
